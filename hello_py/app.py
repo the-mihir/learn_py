@@ -21,4 +21,4 @@ print(name +' your favorite color is '+ get_color)
 birth_year= input('Your Birth Year? ')
 age  = 2024 - int(birth_year)
 
-print(age)
+print("You are "+ str(age) + " years old.") # this is a function for getting input from user ( age)
